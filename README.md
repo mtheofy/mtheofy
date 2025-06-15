@@ -10,6 +10,7 @@ Love networking, Linux and everything DNS. I’m an advocate of using tech to ma
 
 🔸 **DNS**: DNSSEC, unbound, PowerDNS, DnsDist, Cloudflare DNS, GCore DNS, DyDNS and lots about authoritative servers, recursors, stub resolvers 
 🔸 **Networking**: IPv6, routing, VLANs, tuning.
+🔸 **QNAP**: Scripts to fix some QNAP QTS pitfalls.
 🔸 **Sharing**: Practical guides and snippets of configuration. Learned to live with systemd 😊
 
 
